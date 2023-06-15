@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "airPods",
+    "price": "€200",
+    "imgUrl": "/images/airPods.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "appleWatch",
+    "price": "€800",
+    "imgUrl": "/images/appleWatch.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "iPhone",
+    "price": "€1000",
+    "imgUrl": "/images/iPhone.jpeg"
+  }
+]

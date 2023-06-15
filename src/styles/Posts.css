@@ -1,0 +1,9 @@
+.posts {
+    display: flex;
+    padding: 10px;
+    border: 2px solid darkcyan;
+    margin-top: 10px;
+    justify-content: space-between;
+    align-items: center;
+    width: 800px;
+}
